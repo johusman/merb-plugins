@@ -11,7 +11,7 @@ module Merb
     end
   end
 end
-
+# WHAT IS RUBY?
 # make sure we're running inside Merb
 if defined?(Merb::Plugins)
 
